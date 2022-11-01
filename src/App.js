@@ -1,7 +1,11 @@
 import React from 'react';
 import Calculator from './components/calculator';
 class App extends Component {
-    state = {}
+    constructor(props) {
+        super(props);
+        this.state = {};
+    }
+
     render() {
         return (
             <div className='App'>
