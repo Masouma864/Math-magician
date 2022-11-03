@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 To run tests on this project if you tweaked something, run the following command
 
 - `npx hint .`
-- `npx stylelint "\*_/_.{css,scss}"`
+- `npx stylelint "**/*.{css,scss}"`
 - `npx eslint .`
 - Install jest using `npm i --save-dev jest`
 - Install jsDom using `npm install --save-dev jest-environment-jsdom-global jest-environment-jsdom`

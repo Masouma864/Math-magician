@@ -7,16 +7,17 @@
 .screen {
   grid-column: 1 / -1;
   background: #e0e0e0;
-  padding: 0.7em 0.5rem;
+  padding: 1em;
   text-align: right;
   font-size: 1.5rem;
+  border: 0;
 }
 
 .btn {
   color: black;
-  padding: 1em 1.5em;
+  padding: 1em 2.5em;
   text-align: center;
-  border: 1px solid rgb(241, 237, 236);
+  border: 1px solid rgb(241, 217, 236);
 }
 
 .operator {
