@@ -44,9 +44,6 @@ To run tests on this project if you tweaked something, run the following command
 - `npx hint .`
 - `npx stylelint "**/*.{css,scss}"`
 - `npx eslint .`
-- Install jest using `npm i --save-dev jest`
-- Install jsDom using `npm install --save-dev jest-environment-jsdom-global jest-environment-jsdom`
-- run your test using `npm run test`
 
 ## Authors
 
