@@ -2,7 +2,10 @@
 
 # Math Magicians
 
-> Math magician is an app created with REACT | JEST here, lovers of mathematics can perform easy operations on numbers and also get access to inspiring mathematics quotes.
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+
+-Make simple calculations.
+-Read a random math-related quote.
 
 ## Built With
 
