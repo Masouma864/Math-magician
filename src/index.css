@@ -1,5 +1,4 @@
 * {
-
   box-sizing: border-box;
 }
 
@@ -8,7 +7,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-
 }
 
 h1 {
@@ -21,10 +19,9 @@ h1 {
 .home_page {
   width: 75%;
   margin: auto;
-
 }
 
-.home_page>p {
+.home_page > p {
   text-align: left;
   font-size: 22px;
   font-family: Verdana, Geneva, sans-serif;
@@ -48,7 +45,6 @@ h1 {
   list-style: none;
   border-right: 2px solid rgb(26, 19, 20);
   font-size: 16px;
-
 }
 
 .nav_bar li:last-child {
