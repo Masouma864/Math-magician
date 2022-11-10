@@ -3,9 +3,9 @@ import {
   Routes,
   Route,
 } from 'react-router-dom';
-import Home from './components/Home';
-import Quote from './components/Quote';
-import Navbar from './components/Navbar';
+import Home from './components/home';
+import Quote from './components/quote';
+import Navbar from './components/navbar';
 import Calculator from './components/calculator';
 
 function App() {
