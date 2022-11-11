@@ -15,9 +15,9 @@
 - Jest
 - Webpack
 
-## Live Demo
+##Live Demo
 
-[Live Demo Link](COMING SOON ...)
+[Link of Deployed to Netlify ](https://snazzy-phoenix-84d292.netlify.app/)
 
 ## Getting Started
 
