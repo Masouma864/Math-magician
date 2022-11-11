@@ -17,7 +17,7 @@
 
 ##Live Demo
 
-[Link of Deployed to Netlify ](https://snazzy-phoenix-84d292.netlify.app/)
+[Live Demo Link ](https://snazzy-phoenix-84d292.netlify.app/)
 
 ## Getting Started
 
