@@ -18,6 +18,8 @@
 ##Live Demo
 
 [Live Demo Link ](https://snazzy-phoenix-84d292.netlify.app/)
+
+
 ![Math-magician-App](https://user-images.githubusercontent.com/74160063/201516302-f71abbf8-f11c-4fd6-b045-c745c661dfe3.PNG)
 
 
